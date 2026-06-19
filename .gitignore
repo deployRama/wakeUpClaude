@@ -1,0 +1,7 @@
+# Log que genera el cron
+wake.log
+*.log
+
+# Python
+__pycache__/
+*.pyc
